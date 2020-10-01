@@ -6,9 +6,7 @@
 - creating practice examples
 - wrap up to look over main points
 
-:computer:
-
-## Javascript refresher
+:computer: ## Javascript refresher
 
 <br/>
 
