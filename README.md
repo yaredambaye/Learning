@@ -1,10 +1,10 @@
 # What is this???
 
-I am using this to document my progress for learning a new tech stack. This will help me identify how i can improve my learing and help me understand how long it takes me before i become very comfortable with it.
+I am using this to document my progress for learning a new tech stack. This will help me identify how i can improve my learning and help me understand how long it takes me before i become very comfortable with it.
 
 | Days                                                | completed          | Time spent |
 | --------------------------------------------------- | ------------------ | ---------- |
-| _[Day 1](https://github.com/yaredambaye/Learning)_  | :heavy_check_mark: | 1          |
+| _[Day 1](/daily-logs/day1.md)_                      | :heavy_check_mark: | 1          |
 | _[Day 2](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
 | _[Day 3](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
 | _[Day 4](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
