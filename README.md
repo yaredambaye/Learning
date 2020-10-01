@@ -2,39 +2,39 @@
 
 I am using this to document my progress for learning a new tech stack. This will help me identify how i can improve my learing and help me understand how long it takes me before i become very comfortable with it.
 
-| Days           | completed    | Time spent |
-| -------------- | ------------ | ---------- |
-| _[Need]Day 1_  | :red_circle: | 1          |
-| _[Need]Day 2_  | :red_circle: | 1          |
-| _[Need]Day 3_  | :red_circle: | 1          |
-| _[Need]Day 4_  | :red_circle: | 1          |
-| _[Need]Day 5_  | :red_circle: | 1          |
-| _[Need]Day 6_  | :red_circle: | 1          |
-| _[Need]Day 7_  | :red_circle: | 1          |
-| _[Need]Day 8_  | :red_circle: | 1          |
-| _[Need]Day 9_  | :red_circle: | 1          |
-| _[Need]Day 10_ | :red_circle: | 1          |
-| _[Need]Day 11_ | :red_circle: | 1          |
-| _[Need]Day 12_ | :red_circle: | 1          |
-| _[Need]Day 13_ | :red_circle: | 1          |
-| _[Need]Day 14_ | :red_circle: | 1          |
-| _[Need]Day 15_ | :red_circle: | 1          |
-| _[Need]Day 16_ | :red_circle: | 1          |
-| _[Need]Day 17_ | :red_circle: | 1          |
-| _[Need]Day 18_ | :red_circle: | 1          |
-| _[Need]Day 19_ | :red_circle: | 1          |
-| _[Need]Day 20_ | :red_circle: | 1          |
-| _[Need]Day 21_ | :red_circle: | 1          |
-| _[Need]Day 22_ | :red_circle: | 1          |
-| _[Need]Day 23_ | :red_circle: | 1          |
-| _[Need]Day 24_ | :red_circle: | 1          |
-| _[Need]Day 25_ | :red_circle: | 1          |
-| _[Need]Day 26_ | :red_circle: | 1          |
-| _[Need]Day 27_ | :red_circle: | 1          |
-| _[Need]Day 28_ | :red_circle: | 1          |
-| _[Need]Day 29_ | :red_circle: | 1          |
-| _[Need]Day 30_ | :red_circle: | 1          |
-| _[Need]Day 31_ | :red_circle: | 1          |
+| Days           | completed          | Time spent |
+| -------------- | ------------------ | ---------- |
+| _[Need]Day 1_  | :heavy_check_mark: | 1          |
+| _[Need]Day 2_  | :red_circle:       | 1          |
+| _[Need]Day 3_  | :red_circle:       | 1          |
+| _[Need]Day 4_  | :red_circle:       | 1          |
+| _[Need]Day 5_  | :red_circle:       | 1          |
+| _[Need]Day 6_  | :red_circle:       | 1          |
+| _[Need]Day 7_  | :red_circle:       | 1          |
+| _[Need]Day 8_  | :red_circle:       | 1          |
+| _[Need]Day 9_  | :red_circle:       | 1          |
+| _[Need]Day 10_ | :red_circle:       | 1          |
+| _[Need]Day 11_ | :red_circle:       | 1          |
+| _[Need]Day 12_ | :red_circle:       | 1          |
+| _[Need]Day 13_ | :red_circle:       | 1          |
+| _[Need]Day 14_ | :red_circle:       | 1          |
+| _[Need]Day 15_ | :red_circle:       | 1          |
+| _[Need]Day 16_ | :red_circle:       | 1          |
+| _[Need]Day 17_ | :red_circle:       | 1          |
+| _[Need]Day 18_ | :red_circle:       | 1          |
+| _[Need]Day 19_ | :red_circle:       | 1          |
+| _[Need]Day 20_ | :red_circle:       | 1          |
+| _[Need]Day 21_ | :red_circle:       | 1          |
+| _[Need]Day 22_ | :red_circle:       | 1          |
+| _[Need]Day 23_ | :red_circle:       | 1          |
+| _[Need]Day 24_ | :red_circle:       | 1          |
+| _[Need]Day 25_ | :red_circle:       | 1          |
+| _[Need]Day 26_ | :red_circle:       | 1          |
+| _[Need]Day 27_ | :red_circle:       | 1          |
+| _[Need]Day 28_ | :red_circle:       | 1          |
+| _[Need]Day 29_ | :red_circle:       | 1          |
+| _[Need]Day 30_ | :red_circle:       | 1          |
+| _[Need]Day 31_ | :red_circle:       | 1          |
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
