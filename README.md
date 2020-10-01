@@ -2,39 +2,39 @@
 
 I am using this to document my progress for learning a new tech stack. This will help me identify how i can improve my learing and help me understand how long it takes me before i become very comfortable with it.
 
-| Days           | completed          | Time spent |
-| -------------- | ------------------ | ---------- |
-| _[Need]Day 1_  | :heavy_check_mark: | 1          |
-| _[Need]Day 2_  | :red_circle:       | 1          |
-| _[Need]Day 3_  | :red_circle:       | 1          |
-| _[Need]Day 4_  | :red_circle:       | 1          |
-| _[Need]Day 5_  | :red_circle:       | 1          |
-| _[Need]Day 6_  | :red_circle:       | 1          |
-| _[Need]Day 7_  | :red_circle:       | 1          |
-| _[Need]Day 8_  | :red_circle:       | 1          |
-| _[Need]Day 9_  | :red_circle:       | 1          |
-| _[Need]Day 10_ | :red_circle:       | 1          |
-| _[Need]Day 11_ | :red_circle:       | 1          |
-| _[Need]Day 12_ | :red_circle:       | 1          |
-| _[Need]Day 13_ | :red_circle:       | 1          |
-| _[Need]Day 14_ | :red_circle:       | 1          |
-| _[Need]Day 15_ | :red_circle:       | 1          |
-| _[Need]Day 16_ | :red_circle:       | 1          |
-| _[Need]Day 17_ | :red_circle:       | 1          |
-| _[Need]Day 18_ | :red_circle:       | 1          |
-| _[Need]Day 19_ | :red_circle:       | 1          |
-| _[Need]Day 20_ | :red_circle:       | 1          |
-| _[Need]Day 21_ | :red_circle:       | 1          |
-| _[Need]Day 22_ | :red_circle:       | 1          |
-| _[Need]Day 23_ | :red_circle:       | 1          |
-| _[Need]Day 24_ | :red_circle:       | 1          |
-| _[Need]Day 25_ | :red_circle:       | 1          |
-| _[Need]Day 26_ | :red_circle:       | 1          |
-| _[Need]Day 27_ | :red_circle:       | 1          |
-| _[Need]Day 28_ | :red_circle:       | 1          |
-| _[Need]Day 29_ | :red_circle:       | 1          |
-| _[Need]Day 30_ | :red_circle:       | 1          |
-| _[Need]Day 31_ | :red_circle:       | 1          |
+| Days                                                | completed          | Time spent |
+| --------------------------------------------------- | ------------------ | ---------- |
+| _[Day 1](https://github.com/yaredambaye/Learning)_  | :heavy_check_mark: | 1          |
+| _[Day 2](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
+| _[Day 3](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
+| _[Day 4](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
+| _[Day 5](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
+| _[Day 6](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
+| _[Day 7](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
+| _[Day 8](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
+| _[Day 9](https://github.com/yaredambaye/Learning)_  | :red_circle:       | 1          |
+| _[Day 10](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 11](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 12](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 13](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 14](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 15](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 16](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 17](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 18](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 19](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 20](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 21](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 22](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 23](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 24](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 25](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 26](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 27](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 28](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 29](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 30](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
+| _[Day 31](https://github.com/yaredambaye/Learning)_ | :red_circle:       | 1          |
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
